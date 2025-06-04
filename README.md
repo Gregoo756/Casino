@@ -1,4 +1,3 @@
-# Casino
 # Python Terminal Casino
 
 A lightweight terminal-based casino simulator written in Python.  
