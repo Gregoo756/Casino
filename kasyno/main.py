@@ -53,7 +53,7 @@ def welcome_screen():
         print(f".", end="")
         time.sleep(0.2)
         print(f".", end="")
-        time.sleep(0.2)
+        time.sleep(0.3)
         print(f".", end="" + Style.RESET_ALL)
         time.sleep(0.2)
         exit()
