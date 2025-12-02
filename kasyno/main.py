@@ -49,13 +49,13 @@ def welcome_screen():
 
     elif choice_input == "4":
         print(Fore.RED + f"Wychdzenie", end="") #Exit
-        time.sleep(0.2)
+        time.sleep(0.1)
         print(f".", end="")
         time.sleep(0.2)
         print(f".", end="")
         time.sleep(0.3)
         print(f".", end="" + Style.RESET_ALL)
-        time.sleep(0.2)
+        time.sleep(0.4)
         exit()
     else:
         print("Niepoprawny wybór")
@@ -66,4 +66,5 @@ while True:
     welcome_screen()
     if kasa <= 0:
         print("Zbankrutowałeś/aś")
+
         break
