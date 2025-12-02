@@ -1,13 +1,10 @@
-# Python Terminal Casino
+# Terminal casino in Python
 
-A lightweight terminal-based casino simulator written in Python.  
+A terminal based casino written in Python.
 It tracks virtual money using JSON.
-It has roulette, blackjack and slots.
+It includes roulette, blackjack and slots. <!-- lol i will add it someday XD -->
 
----
+## Info
 
-## Project Info
-
-- **Start date:** 10.04.2025  
-- Built to practice Python, learn new things, and complete a school project.
-
+- **Start date:** 10.04.2025
+- **Purpose**: Built to finish a school project and practice.
